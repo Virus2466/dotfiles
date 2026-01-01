@@ -1,1 +1,1 @@
-## Dotfiles for my Linux Distro.
+## Dotfiles for my config.
